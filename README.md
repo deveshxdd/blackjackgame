@@ -1,2 +1,2 @@
 # blackjackgame
-blackjack game using html css and js
+BLACKJACK GAME USING HTML AND CSS
