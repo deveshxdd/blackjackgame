@@ -1,0 +1,92 @@
+#back{
+    background-image: url(images/peak.jpg);
+    height: 3840px;
+    width: 2400px;
+   position: fixed;
+}
+#head{
+    text-align: center;
+    font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+    color: rgb(236, 200, 0);
+    text-shadow: 3px 3px 1px rgb(0, 0, 0);
+    position: absolute;
+    top: 160px;
+    left: 910px;
+font-size: 400%;
+}
+#para{
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+   color: rgb(252, 21, 21);
+   text-shadow: 2px 2px 1px rgb(0, 0, 0);
+   position: absolute;
+    top: 240px;
+    left: 950px;
+}
+.p2{
+    text-align: center;
+    font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+   color: rgb(255, 255, 255);
+   text-shadow: 3px 3px 1px rgb(0, 0, 0);
+   font-size: xx-large;
+
+}
+#game{
+    text-align: center;
+    font-weight: bold;
+font-size: larger;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: rgb(0, 0, 0);
+   background-color: rgb(252, 225, 21);
+height: 50px;
+width: 150px;
+   border: none;
+   padding: 4px 4px 4px 4px;
+position: absolute;
+top: 430px;
+left: 1200px;
+color: rgb(4, 73, 4);
+border: 4px  black;
+border-style: groove;
+}
+#gamee{
+    text-align: center;
+    font-weight: bold;
+font-size: larger;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: rgb(0, 0, 0);
+   border: 4px black;
+   border-style: groove;
+   background-color: rgb(252, 225, 21);
+   color: rgb(4, 73, 4);
+   height: 50px;
+width: 150px;
+   padding: 4px 4px 4px 4px;
+   position: absolute;
+   top: 490px;
+left: 1200px;
+}
+#devv{
+    font-size: xx-large;
+    font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 11, 11);
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    position: absolute;
+    top: 520px;
+    left: 1150px;
+}
+#cards{
+    position: absolute;
+    top: 300px;
+    left: 1205px;
+}
+#summ{
+    position: absolute;
+    top: 350px;
+    left: 1208px;
+}
