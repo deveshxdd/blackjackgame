@@ -1,2 +1,0 @@
-# blackjackgame
-BLACKJACK GAME USING HTML AND CSS
